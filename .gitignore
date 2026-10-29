@@ -1,0 +1,44 @@
+# 系统和编辑器临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+*.temp
+*.log
+
+# 本地构建、缓存和渲染结果
+node_modules/
+_report_work/
+_inspect_docx/
+_inspect_pdf/
+cache/
+temp/
+build/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.ipch
+
+# 不应上传到 GitHub 的账号和个人隐私资料
+*recovery-codes*
+*密码*
+*身份证*
+*学生证*
+*银行卡*
+*发票*
+
+# 超过 GitHub 单文件限制的原始实验输出（保留目录说明，数据不进仓库）
+/06-组合导航/第三次作业/code/data/ImuError_ODO_NHC.txt
+/06-组合导航/第三次作业/code/data/NavSTD_ODO_NHC.txt
+/06-组合导航/第三次作业/code/data/REF_NAV.nav
+/06-组合导航/第三次作业/code/dataset1/NavSTD.txt
+/06-组合导航/第二次作业/ref_out.nav
+/07-三维建模/三维激光雷达建模补充作业/las成果/ground_csf.las
+/07-三维建模/三维激光雷达建模补充作业/las成果/ground_ptin.las
