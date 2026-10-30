@@ -1,0 +1,14 @@
+dataset1/NavResult.nav
+dataset1/NavSTD.txt
+dataset1/ImuError.txt
+
+dataset2/NavResult.nav
+dataset2/NavResult_GNSSVEL.nav
+dataset2/NavSTD.txt
+dataset2/ImuError.txt
+
+dataset3/NavResult.nav
+dataset3/NavResult_ODONHC.nav
+dataset3/NavSTD.txt
+dataset3/ImuError.txt
+
